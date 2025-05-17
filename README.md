@@ -36,4 +36,4 @@ These insights empower stakeholders with key business metrics, enabling strategi
 
 ## About Me
 
-Hi there! I'm **Mandeep Goyal**. I am Data Engineer who can manage the data wihtout complicating things.
+Hi there! I'm **Mandeep Goyal**. I am Data Engineer who can manage the data without complicating things.
