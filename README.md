@@ -75,6 +75,12 @@ data-warehouse-project/
 ```
 ---
 
-## About Me
+## 👷 About Me
 
 Hi there! I'm **Mandeep Goyal**. I am Data Engineer who can manage the data without complicating things.
+
+---
+
+## 🔍️ Reference
+
+https://datawithbaraa.substack.com/
